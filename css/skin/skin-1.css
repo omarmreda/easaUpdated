@@ -172,7 +172,7 @@ blockquote,
 }
 
 ::selection {
-  color: #fff;
+  color: #881230 !important;
   background: #881230; 
 }
 

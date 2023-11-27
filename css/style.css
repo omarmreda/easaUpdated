@@ -10122,3 +10122,19 @@ ol.commentlist li .star-rating {
     overflow: hidden;
     transition: 0.5s;
 }
+
+.logo-text{
+    color: #fff !important; 
+    font-size: 24px;
+    margin-left: 150px;
+}
+@media(max-width:1200px) {
+    .logo-text{
+        margin-left: 0;
+    }
+}
+@media(max-width:780px) {
+    .logo-text{
+       font-size: 20px;
+    }
+}
